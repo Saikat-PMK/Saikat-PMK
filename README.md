@@ -1,28 +1,21 @@
-![👋 Hi, my name is Saikat Pramanik](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# 💫 About Me:
+# Hi, I'm Saikat Pramanik 👋<br><br>🚀 Data Analyst | eDiscovery Professional | Automation Enthusiast<br><br>I specialize in large-scale data processing, automation workflows, and analytics solutions. Currently working at EPIQ Systems India Pvt Ltd, I handle structured and unstructured datasets, bulk file processing, data transformation, and quality control for complex projects.<br><br>## 💡 What I Do<br>- Data Cleaning & Transformation<br>- Python Automation & VBA Macros<br>- SQL Query Optimization<br>- Power BI Dashboards & Reporting<br>- Bulk File Processing & Data Recovery<br>- GDPR, FERPA, HIPAA & PII/PHI Compliance<br>- eDiscovery & Litigation Support<br><br>## 🛠 Tech Stack<br>- Python (Pandas, Regex)<br>- SQL<br>- Excel & Power Query<br>- VBA Automation<br>- Power BI<br>- Relativity & Canopy<br>- Power Automate & n8n<br><br>## 📈 Experience<br>- Data Analyst at EPIQ Systems India Pvt Ltd<br>- Former Data Analyst at Canara HSBC<br>- Former Quality Control Apprentice at Royal Enfield<br><br>## 🎯 Interests<br>I enjoy building automation solutions that reduce manual effort, improve processing efficiency, and solve real-world data challenges.<br><br>## 📫 Connect With Me<br>- LinkedIn: linkedin.com/in/saikat-pmk<br>- Email: saikat.pmk@gmail.com
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Saikat Pramanik
-      </h1>
-    </summary>
-  </ul>
-</div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/saikat-pramanik-3377ba302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="saikat.pmk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saikat-pmk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikat.it@outlook.com) 
 
- **<h3 align="left">🚀 I'm a Data Analyst skilled in Excel, SQL, Power BI, and currently expanding my expertise in Python, Azure Cloud, NLP, Generative AI, and Machine Learning. Passionate about leveraging data to uncover insights and drive impactful decisions.</h3>**
+# 💻 Tech Stack:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Saikat-PMK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Saikat-PMK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saikat-PMK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**<h3 align="left">Rapid Fire</h3>**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saikat-PMK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💼 I'm currently working on: **💻 Learning Python, Azure Cloud, and NLP.**
-- 🌱 I'm currently learning: **📚 Exploring Generative AI & Machine Learning.**
-- 💬 Ask me about: **💡 Enhancing Power BI & Data Visualization skills.**
-- ⚡ Fun fact: **🎢 Working on real-world data analytics projects.**
+---
+[![](https://komarev.com/ghpvc/?username=Saikat-PMK&icon=0&color=0)](https://visitcount.itsvg.in)
 
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="32" alt="Microsoft SQL Server" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="32" alt="PyTorch" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="32" alt="Azure" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32" alt="Visual Studio" style="margin-right: 4px"></div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
